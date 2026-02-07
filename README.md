@@ -8,9 +8,7 @@
 
 ## What is the Penumbral Lexicon?
 
-The **Potent Penumbral Lexicon** is a comprehensive research library exploring the **penumbra of cannabis law**—the ambiguities, gray areas, and unarticulated implications of state cannabis regulations. 
-
-We analyze where written law diverges from enforcement, where regulations leave gaps, and where operators must navigate uncertainty.
+The **Potent Penumbral Lexicon** is a comprehensive research library analyzing state cannabis regulations where law, enforcement, and reality diverge.
 
 ---
 
@@ -24,14 +22,14 @@ We analyze where written law diverges from enforcement, where regulations leave 
 - **Status**: Private (50+ pages each)
 
 ### 📄 Penumbrant One-Pagers™
-*Executive summaries of key penumbral issues by state*
+*Executive summaries of key issues by state*
 - Quick reference for operators and attorneys
 - Highlights critical gray areas
 - **Status**: Public teasers available
 
 ### ⚖️ ORA Reports™
 *Operator vs. Regulator Asymmetry Comprehensive Analysis*
-- How power imbalances create penumbral zones
+- How power imbalances shape regulatory landscapes
 - Information asymmetries in enforcement
 - Policy vs. practice discrepancies
 - **Status**: Private (full reports)
