@@ -1,0 +1,22 @@
+# Exclude full Penumbrant Papers (50+ pages)
+docs/Penumbrant-Papers/
+
+# Optional: Keep one-pagers and ORA reports visible
+# If you want to exclude these too, uncomment the lines below:
+# docs/Penumbrant-One-Pagers/
+# docs/ORA-Reports/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
