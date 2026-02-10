@@ -1,6 +1,6 @@
 # Security Policy
 
-Report vulnerabilities privately: k@kgracia.com (Subject: "RegForge Security")
+Report vulnerabilities privately: k@kgracia.com (Subject: "Potent Penaural Library Security")
 
 Include:
 - Affected file/path
