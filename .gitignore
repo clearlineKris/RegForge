@@ -1,13 +1,13 @@
-# Exclude full Penumbrant Papers (50+ pages)
-docs/Penumbrant-Papers/
+# Exclude full Margin Notes PDFs (50+ pages)
+docs/Margin-Notes/*.pdf
 
-# Exclude long-form ORA Reports (keep ORA Leaflets visible)
-docs/ORA-Reports/
+# Exclude long-form Field Notes PDFs (keep leaflets visible)
+docs/Field-Notes-Ops-vs-Regs/*.pdf
 
-# Optional: Keep one-pagers and ORA Leaflets visible
+# Optional: Keep one-pagers and leaflets visible
 # If you want to exclude these too, uncomment the lines below:
-# docs/Penumbrant-One-Pagers/
-# docs/ORA-Leaflets/
+# docs/Margin-Notes-One-Pagers/
+# docs/Field-Notes-Leaflets/
 
 # System files
 .DS_Store
