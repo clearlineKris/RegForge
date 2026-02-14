@@ -9,9 +9,18 @@ docs/ORA-Reports/
 # docs/Penumbrant-One-Pagers/
 # docs/ORA-Leaflets/
 
+# Private methodology cache
+clearline-regulatory-intelligence/methodology/
+
+# Local 10.1_PLK working directory
+10.1_PLK/
+
 # System files
 .DS_Store
 Thumbs.db
+
+# PENpoints preview (work in progress)
+clearline-regulatory-intelligence/product-previews/PENpoints_deep_dives_preview.md
 
 # Editor files
 *.swp

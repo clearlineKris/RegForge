@@ -14,7 +14,7 @@ We provide two complementary product lines:
 **The law everyone knows.**  
 Official statutes, regulation numbers, settled legal frameworks, industry impact.
 
-### 🌑 Penumbrant Pro's Manual
+### 🌑 Penumbrant Prose Manual
 **The regulatory shadows.**  
 Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
@@ -33,12 +33,14 @@ Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
 ### Sample Full Manuals (FREE)
 See the depth and quality:
-- **[Colorado: Penumbrant Pro's Manual](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-Penumbrant-Pros-Manual.md)** (30,000 words, 88 citations)
+- **[Colorado: Penumbrant Prose Manual](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-Penumbrant-Prose-Manual.md)** (30,000 words, 88 citations)
 - **[Colorado: LOTL Stack](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-LOTL-Stack-Full.md)** (black-letter law compilation)
 
 ### Understanding Our Products
 - **[LOTL vs. Penumbrant: What's the Difference?](clearline-regulatory-intelligence/product-previews/penumbrant-vs-lotl-comparison.md)** ⭐ READ THIS FIRST
+
 - [Methodology: How We Identify Regulatory Gaps](clearline-regulatory-intelligence/free-resources/methodology/How-We-Identify-Regulatory-Gaps.md)
+
 - [LOTL Documentation Standards](clearline-regulatory-intelligence/free-resources/methodology/LOTL-Documentation-Standards.md)
 
 ---
@@ -47,11 +49,13 @@ See the depth and quality:
 
 ### Individual State Products
 
-| Product | What It Is | Price | Purchase |
-|---------|-----------|-------|----------|
-| **LOTL Stack** | Black-letter law compilation | $79-99 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| **Penumbrant Pro's Manual** | Regulatory gap analysis | $99-129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| **Lil' LOTL Stack** | Condensed statutory overview | $39-49 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+- **LOTL Stack (state)** – Black-letter law compilation; $79-99; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+- **Penumbrant Prose Manual (state)** – Regulatory gap analysis; $99-129; [Buy](clearline-regulatory-intelligence/
+purchase/GUMROAD-LINKS.md).
+
+- **Lil' LOTL Stack (state)** – Condensed statutory overview; $39-49; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
 
 **💰 State Bundles (Best Value):**
 - **Complete State Package:** LOTL + Penumbrant = $159 (save 20%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
@@ -64,34 +68,39 @@ See the depth and quality:
 #### Regional Playbooks
 Geography-based multi-state analysis (no political overlay).
 
-| Region | States Covered | Price | Purchase |
-|--------|---------------|-------|----------|
-| West Coast | CA, OR, WA | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Midwest | IL, MI, MN, OH | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Northeast | MA, ME, NJ, NY, RI, VT | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md) | | | |
+- **West Coast Regional Playbook** – CA, OR, WA coverage; $249; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+
+- **Midwest Regional Playbook** – IL, MI, MN, OH coverage; $249; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+
+- **Northeast Regional Playbook** – MA, ME, NJ, NY, RI, VT coverage; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+
+
+- [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md)
 
 #### Reg &amp; Pol Playbooks
 Regional norms + political climate analysis.
 
-| Region | Coverage | Price | Purchase |
-|--------|----------|-------|----------|
-| West Coast | CA, OR, WA + political landscape | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Midwest | IL, MI, MN, OH + political trends | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All →](clearline-regulatory-intelligence/product-previews/reg-pol-playbook-preview.md) | | | |
+- **West Coast Reg &amp; Pol Playbook** – CA, OR, WA + political landscape; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Midwest Reg &amp; Pol Playbook** – IL, MI, MN, OH + political trends; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- [View All →](clearline-regulatory-intelligence/product-previews/reg-pol-playbook-preview.md)
 
 ---
 
 ### Topical Deep Dives
 Subject-specific analysis across 20 states.
 
-| Topic | States Covered | Price | Purchase |
-|-------|---------------|-------|----------|
-| Employment &amp; Drug Testing | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Social Equity Programs | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Track-and-Trace (Metrc/Biotrack) | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Municipal Variance &amp; Home Rule | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All Topics →](clearline-regulatory-intelligence/product-previews/topical-deepdive-preview.md) | | | |
+- **Employment &amp; Drug Testing** – deep dive into how hiring rules, testing windows, and ADA accommodations shift from city to city; $129; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+- **Social Equity Programs** – coverage on application strings, recapture penalties, and enforcement of social equity commitments; $129; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+- **Track-and-Trace (Metrc/Biotrack)** – focus on reconciliation challenges, API resilience, and cross-state data sharing pressure points; $129; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+- **Municipal Variance &amp; Home Rule** – explore zoning controversy, local moratoria, and how small-town enforcement teams interpret state law; $129; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+
+- [View All Topics →](clearline-regulatory-intelligence/product-previews/topical-deepdive-preview.md)
 
 ---
 
@@ -120,7 +129,7 @@ Subject-specific analysis across 20 states.
 **Social Equity Navigator:**
 - Social Equity Deep Dive (all 20 states)
 - Reg &amp; Pol Playbooks (all regions)
-- **Price:** $999 (save 35%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
+- ✅ All 39 Penumbrant Prose Manuals
 
 ---
 
@@ -129,7 +138,7 @@ Subject-specific analysis across 20 states.
 **Everything. Forever.**
 
 - ✅ All 39 LOTL Stacks
-- ✅ All 39 Penumbrant Pro's Manuals
+- ✅ All 39 Penumbrant Prose Manuals
 - ✅ All Regional Playbooks
 - ✅ All Reg &amp; Pol Playbooks
 - ✅ All Topical Deep Dives

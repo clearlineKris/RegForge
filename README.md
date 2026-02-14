@@ -14,7 +14,7 @@ We provide two complementary product lines:
 **The law everyone knows.**  
 Official statutes, regulation numbers, settled legal frameworks, industry impact.
 
-### 🌑 Penumbrant Pro's Manual
+### 🌑 Penumbrant Prose Manual
 **The regulatory shadows.**  
 Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
@@ -33,7 +33,7 @@ Gaps, ambiguities, enforcement uncertainties, risk surfaces.
 
 ### Sample Full Manuals (FREE)
 See the depth and quality:
-- **[Colorado: Penumbrant Pro's Manual](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-Penumbrant-Pros-Manual.md)** (30,000 words, 88 citations)
+- **[Colorado: Penumbrant Prose Manual](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-Penumbrant-Prose-Manual.md)** (30,000 words, 88 citations)
 - **[Colorado: LOTL Stack](clearline-regulatory-intelligence/free-resources/sample-full-manuals/Colorado-LOTL-Stack-Full.md)** (black-letter law compilation)
 
 ### Understanding Our Products
@@ -47,11 +47,9 @@ See the depth and quality:
 
 ### Individual State Products
 
-| Product | What It Is | Price | Purchase |
-|---------|-----------|-------|----------|
-| **LOTL Stack** | Black-letter law compilation | $79-99 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| **Penumbrant Pro's Manual** | Regulatory gap analysis | $99-129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| **Lil' LOTL Stack** | Condensed statutory overview | $39-49 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
+- **LOTL Stack (state)** – Black-letter law compilation; $79-99; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Penumbrant Prose Manual (state)** – Regulatory gap analysis; $99-129; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Lil' LOTL Stack (state)** – Condensed statutory overview; $39-49; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
 
 **💰 State Bundles (Best Value):**
 - **Complete State Package:** LOTL + Penumbrant = $159 (save 20%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
@@ -64,34 +62,34 @@ See the depth and quality:
 #### Regional Playbooks
 Geography-based multi-state analysis (no political overlay).
 
-| Region | States Covered | Price | Purchase |
-|--------|---------------|-------|----------|
-| West Coast | CA, OR, WA | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Midwest | IL, MI, MN, OH | $249 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Northeast | MA, ME, NJ, NY, RI, VT | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md) | | | |
+- **West Coast Regional Playbook** – CA, OR, WA coverage; $249; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Midwest Regional Playbook** – IL, MI, MN, OH coverage; $249; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Northeast Regional Playbook** – MA, ME, NJ, NY, RI, VT coverage; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md)
 
 #### Reg &amp; Pol Playbooks
 Regional norms + political climate analysis.
 
-| Region | Coverage | Price | Purchase |
-|--------|----------|-------|----------|
-| West Coast | CA, OR, WA + political landscape | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Midwest | IL, MI, MN, OH + political trends | $299 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All →](clearline-regulatory-intelligence/product-previews/reg-pol-playbook-preview.md) | | | |
+- **West Coast Reg &amp; Pol Playbook** – CA, OR, WA with political landscape insights; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- **Midwest Reg &amp; Pol Playbook** – IL, MI, MN, OH with political trends updates; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
+- [View All →](clearline-regulatory-intelligence/product-previews/reg-pol-playbook-preview.md)
 
 ---
 
-### Topical Deep Dives
-Subject-specific analysis across 20 states.
+### PENpoints Deep Dives
+PENpoints deep dives layer subject-specific research across 20 states, blending statute-level clarity with mitigation scripts.
 
-| Topic | States Covered | Price | Purchase |
-|-------|---------------|-------|----------|
-| Employment &amp; Drug Testing | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Social Equity Programs | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Track-and-Trace (Metrc/Biotrack) | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| Municipal Variance &amp; Home Rule | 20 states | $129 | [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md) |
-| [View All Topics →](clearline-regulatory-intelligence/product-previews/topical-deepdive-preview.md) | | | |
+- **Employment &amp; Drug Testing** – tease how pre/post-employment screens, adjudication of positive results, and accommodations intersect with union chatter.
+- **Social Equity Programs** – preview application scrutiny, recapture enforcement, and how regulators police preferred-operator promises.
+- **Track-and-Trace (Metrc/Biotrack)** – look at API resilience, audit flags, and the reconciliation questions that slow multi-state ops.
+- **Municipal Variance &amp; Home Rule** – preview how moratoria, zoning synonyms, and local compliance squads upend statewide assumptions.
+- **Environmental &amp; Waste Compliance** – talk about hazardous waste manifests, odor mitigation promises, stormwater reporting, and how those keep regulators at the gate.
+- **Home Delivery &amp; Mobile Retail** – tease cross-municipal routing, parcel security, and what happy hour pushes mean for law enforcement.
+- **Financial Crime &amp; Cash Controls** – tease FinCEN reporting gaps, suspicious activity narratives, and the banking freeze playbook that follows.
+- **Workforce &amp; Labor Risk** – cover wage/hour traps, contractor status debates, and cannabis-specific background checks.
+- **Technology &amp; Data Integrity** – highlight vendor lock-in, sovereignty questions, and what the fallback plan is when your track-and-trace API goes dark.
+- **Federal &amp; Interjurisdictional Risk** – preview banking tellers, DEA notices, and how interstate logistics tilt toward the cautious side.
+- [View All Topics →](clearline-regulatory-intelligence/product-previews/topical-deepdive-preview.md)
 
 ---
 
@@ -100,7 +98,7 @@ Subject-specific analysis across 20 states.
 ### Multi-State Operator Packages
 
 **West Coast Complete:**
-- CA, OR, WA: LOTL Stacks + Penumbrant Manuals
+- CA, OR, WA: LOTL Stacks + Penumbrant Prose Manuals
 - West Coast Regional Playbook
 - West Coast Reg &amp; Pol Playbook
 - **Price:** $699 (save 35%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
@@ -112,9 +110,9 @@ Subject-specific analysis across 20 states.
 
 ### Topic-Focused Packages
 
-**Employment Compliance Master:**
+- **Employment Compliance Master:**
 - Employment Deep Dive (all 20 states)
-- Penumbrant Manuals for all 20 states
+- Penumbrant Prose Manuals for all 20 states
 - **Price:** $1,499 (save 40%) — [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md)
 
 **Social Equity Navigator:**
@@ -129,7 +127,7 @@ Subject-specific analysis across 20 states.
 **Everything. Forever.**
 
 - ✅ All 39 LOTL Stacks
-- ✅ All 39 Penumbrant Pro's Manuals
+- ✅ All 39 Penumbrant Prose Manuals
 - ✅ All Regional Playbooks
 - ✅ All Reg &amp; Pol Playbooks
 - ✅ All Topical Deep Dives
@@ -154,7 +152,7 @@ Shows which products cover which states and what's available.
 ## 🎯 Who Uses ClearLine
 
 **Cannabis Operators:**
-> "We use LOTL Stacks for staff training and Penumbrant Manuals for executive risk assessment. Together they're our compliance foundation."  
+> "We use LOTL Stacks for staff training and Penumbrant Prose Manuals for executive risk assessment. Together they're our compliance foundation."  
 > — VP of Compliance, Multi-State Operator
 
 **Legal Counsel:**

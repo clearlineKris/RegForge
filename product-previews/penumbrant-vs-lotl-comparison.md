@@ -1,9 +1,9 @@
-# LOTL Stack vs. Penumbrant Pro's Manual: What's the Difference?
+# LOTL Stack vs. Penumbrant Prose Manual: What's the Difference?
 
 ## TL;DR
 
 **LOTL Stack** answers: "What does the law say?"  
-**Penumbrant Pro's Manual** answers: "What is the law unclear about?"
+**Penumbrant Prose Manual** answers: "What is the law unclear about?"
 
 Most operators need **both**.
 
@@ -36,7 +36,7 @@ Comprehensive documentation of **settled, black-letter cannabis law** in each st
 
 ---
 
-## Penumbrant Pro's Manual (PS)
+## Penumbrant Prose Manual (PPM)
 
 ### What It Is
 Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is unclear, disputed, or evolving.
@@ -72,12 +72,12 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 - Exception exists for "safety-sensitive positions"
 - Employers must offer rehabilitation before termination
 
-**Penumbrant Manual tells you:**
+**Penumbrant Prose Manual tells you:**
 - "Safety-sensitive position" is undefined - risk of overbroad designation
 - Case law hasn't clarified boundaries yet
 - Recommended: Define conservatively to avoid litigation
 
-**Result:** You build compliant policy (LOTL) while managing legal risk (Penumbrant).
+**Result:** You build compliant policy (LOTL) while managing legal risk (Penumbrant Prose Manual).
 
 ---
 
@@ -88,12 +88,12 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 - OCM rules govern delivery operations
 - Customer age verification required
 
-**Penumbrant Manual tells you:**
+**Penumbrant Prose Manual tells you:**
 - Cross-municipal delivery authority unclear
 - If destination municipality prohibits retail, does that extend to delivery?
 - OCM guidance still evolving - expect enforcement uncertainty
 
-**Result:** You understand legal framework (LOTL) and anticipate compliance challenges (Penumbrant).
+**Result:** You understand legal framework (LOTL) and anticipate compliance challenges (Penumbrant Prose Manual).
 
 ---
 
@@ -104,12 +104,12 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 - Must be in "enclosed, locked space"
 - Must be "out of public view"
 
-**Penumbrant Manual tells you:**
+**Penumbrant Prose Manual tells you:**
 - "Enclosed, locked space" undefined - locked greenhouse? Outdoor garden with fence?
 - Landlords may prohibit cultivation despite statutory right - no case law yet
 - Enforcement variability across jurisdictions
 
-**Result:** You advise clients on legal rights (LOTL) and practical risks (Penumbrant).
+**Result:** You advise clients on legal rights (LOTL) and practical risks (Penumbrant Prose Manual).
 
 ---
 
@@ -117,7 +117,7 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 
 ### Individual Products
 - **LOTL Stack (state):** $79-99
-- **Penumbrant Pro's Manual (state):** $99-129
+- **Penumbrant Prose Manual (state):** $99-129
 - **Lil' LOTL Stack (state):** $39-49
 
 ### Recommended Bundles
@@ -135,7 +135,7 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 - You're building training materials for staff
 - You're establishing baseline policy framework
 
-### Start with Penumbrant Manual if:
+### Start with Penumbrant Prose Manual if:
 - You already know the basics of state law
 - You're navigating a specific gray area or disputed issue
 - You're assessing regulatory risk for investment
@@ -150,5 +150,5 @@ Analysis of **regulatory gaps, ambiguities, and gray areas** where the law is un
 ---
 
 [Purchase LOTL Stack →](gumroad-link)  
-[Purchase Penumbrant Pro's Manual →](gumroad-link)  
+[Purchase Penumbrant Prose Manual →](gumroad-link)  
 [Bundle: Complete State Package →](gumroad-link)
