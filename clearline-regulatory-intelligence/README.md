@@ -8,7 +8,7 @@
 Most cannabis compliance resources tell you **what the law says**.  
 ClearLine tells you **what the law says** AND **where the law is unclear**.
 
-We provide two complementary product lines:
+We provide a few complementary product lines:
 
 ### 📜 LOTL Stack (Letter of the Law)
 **The law everyone knows.**  
@@ -17,6 +17,10 @@ Official statutes, regulation numbers, settled legal frameworks, industry impact
 ### 🌑 Penumbrant Prose Manual
 **The regulatory shadows.**  
 Gaps, ambiguities, enforcement uncertainties, risk surfaces.
+
+### State-Specific Supplementals
+**Detailing what squares of unique design make up the patchwork of canna-policy nationwide**
+These individually unique pieces detail the "flavor" of industry each state experiences as a result of social and policy-related pressures & points of ease.
 
 **Together:** Complete regulatory intelligence for informed compliance decisions.
 
