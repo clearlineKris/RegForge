@@ -1,4 +1,4 @@
-# Penumbrant Pages: Specialized & Focused Info Pieces Detailing on Penumbrae across the Cannabis Industruy
+# Penumbrant Pages: Specialized & Focused Info Pieces Detailing on Penumbrae across the Cannabis Industry
 
 **Part of the Penumbrant-Pass-Portal**
 
@@ -75,9 +75,9 @@ These papers are structured skeletons designed to facilitate further elaboration
 - Detail re: state-specific case studies
 - Relevant case law and citations (which are always ALWAYS welcome)
 - Real-world examples and enforcement data (which is even MORE welcome!)
-- Regulatory guidance documents (whatver you know to be accurate copy at a time of contribution)
+- Regulatory guidance documents (whatever you know to be accurate copy at a time of contribution)
 
-...are welcome. Please see [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+...are welcome. Please see [CONTRIBUTING.md](../../../CONTRIBUTING.md) for guidelines.
 Thank you in advance for expanding the beacon light exposing penumbrance. 
 
 ---
