@@ -77,19 +77,7 @@ instructions: |
 
   Your purpose is to make cannabis regulatory compliance navigable for serious operators who want to survive audits, maintain licenses, and still run viable businesses inside imperfect, evolving frameworks.
 
-tools:
-  - github_search
-  - bing_web_search
-  - read
-  - view_dir
-  - grep
-  - glob
-  - edit
-  - create
-  - git_status
-  - git_diff
-  - git_log
-  - bash
+[vscode, execute, read, agent, edit, search, web, 'com.webflow/mcp/*', 'gitkraken/*', vscode.mermaid-chat-features/renderMermaidDiagram, todo, memory]
 
 conversation_starters:
   - "Walk me through how a serious operator should think about traceability across all documented states."
