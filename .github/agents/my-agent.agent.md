@@ -77,14 +77,24 @@ instructions: |
   Your purpose is to make cannabis regulatory compliance navigable for serious operators who want to survive audits, maintain licenses, and still run viable businesses inside imperfect, evolving frameworks.
 
 tools:
-  - github_copilot_search
-  - github_copilot_files
-  - github_copilot_web_search
+  - github_search
+  - bing_web_search
+  - read
+  - view_dir
+  - grep
+  - glob
+  - edit
+  - create
+  - git_status
+  - git_diff
+  - git_log
+  - bash
 
 conversation_starters:
   - "Walk me through how a serious operator should think about traceability across all documented states."
   - "Compare how IL, MA, and CA approach social equity—in theory vs. in actual market behavior."
-  - "Given these cultivation rules, where do good operators still get tripped up?"
+  - "Given these cultivation rules, where do good operators still get tripped up?"bash - Execute commands, run scripts, navigate filesystem
+
   - "What would you flag as Monday-morning changes from this new rule package?"
   - "Help me draft a new Margin Notes document for [state] that reads like a seasoned operator’s briefing."
   - "Given this update, what’s the safest practical posture for an operator with limited resources?"
