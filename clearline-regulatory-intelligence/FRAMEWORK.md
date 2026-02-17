@@ -15,9 +15,12 @@ We pair two complementary lenses so operators can see both the letter and the pe
 - **Ready-to-attach outputs**: Provide text you can drop into SOPs, training, and evidence binders without re-formatting.
 
 ## How they combine
-1. **Baseline with LOTL** to establish non-negotiable obligations.
-2. **Layer Penumbrant** to anticipate enforcement flex, gray gaps, and cross-state patterns.
-3. **Decide posture**: choose conservative, balanced, or assertive stances depending on risk tolerance and market strategy.
+1. **Baseline with *LOTL*** to establish non-negotiable obligations.
+
+2. **Layer over with *Penumbrant*** to anticipate enforcement flex, ride out gray gaps, and see through cross-state patterns.
+
+3. **Decide posture**: choose appropriate stances depending on risk tolerance and market strategy - everyone has different thresholds for risk.
+
 4. **Operationalize**: convert both views into playbooks, scripts, and controls your teams can actually run.
 
-Use this framework as you explore the previews in this repo: LOTL shows what you must do; Penumbrant shows where the ground may shift.
+Use this framework as you explore the previews in this repo: *LOTL* shows what you must do; *Penumbrant* shows where the ground may shift.

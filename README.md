@@ -1,5 +1,8 @@
 # ClearLine Regulatory Intelligence
-## Cannabis Compliance Clarity: From Black-Letter Law to Regulatory Shadows
+## Cannabis Compliance Clarity: The Grey Matter Praxis  
+
+*From Black-Letter Law to Regulatory Shadows, this repo ensures that you, dear reader, will be kept abreast of all shades and colors of cannabis policy, posture, statute, and penumbrae.* 
+
 
 ---
 
@@ -8,7 +11,7 @@
 Most cannabis compliance resources tell you **what the law says**.  
 ClearLine tells you **what the law says** AND **where the law is unclear**.
 
-We provide two complementary product lines:
+We provide a suite of complementary sources of insight & observations:
 
 ### 📜 LOTL Stack (Letter of the Law)
 **The law everyone knows.**  
@@ -68,7 +71,7 @@ Geography-based multi-state analysis (no political overlay).
 - [View All Regions →](clearline-regulatory-intelligence/product-previews/regional-playbook-preview.md)
 
 #### Reg &amp; Pol Playbooks
-Regional norms + political climate analysis.
+*REGional* norms + *POLitical* climate analysis.
 
 - **West Coast Reg &amp; Pol Playbook** – CA, OR, WA with political landscape insights; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).
 - **Midwest Reg &amp; Pol Playbook** – IL, MI, MN, OH with political trends updates; $299; [Buy](clearline-regulatory-intelligence/purchase/GUMROAD-LINKS.md).

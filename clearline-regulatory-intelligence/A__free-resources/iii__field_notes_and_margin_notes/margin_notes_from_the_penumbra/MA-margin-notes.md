@@ -25,4 +25,4 @@ From host community agreements to social equity provisions, the Cannabis Control
 
 ---
 
-*This document is part of the Potent Penaural Library's Margin Notes series, exploring the penumbra of regulatory law where ambiguity meets enforcement reality. Not legal advice.*
+*This document is part of the ProLex's Margin Notes series, exploring the penumbra of regulatory law where ambiguity meets enforcement reality. Not legal advice.*
