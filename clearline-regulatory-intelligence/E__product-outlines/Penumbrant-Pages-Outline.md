@@ -52,8 +52,8 @@ How regulators have actually behaved. Enforcement drift signals from regulator s
 **Multi-Jurisdictional Tensions**
 Conflicts between overlapping regulatory authorities — state vs. local, agency vs. agency, statute vs. rule. Colorado's 300+ municipal regulatory environments, for example, create multi-jurisdictional tension that the state framework doesn't resolve.
 
-**Case Studies and Real-World Implications**
-How identified ambiguities play out in practice. Not hypothetical — grounded in operator-reported friction, enforcement actions, and documented gray-area scenarios.
+**Case Studies, Case Law, and Real-World Implications**
+How identified ambiguities play out in practice. Not hypothetical — grounded in operator-reported friction, enforcement actions, documented gray-area scenarios, and where courts or agencies have moved to fill regulatory gaps. Case law and precedent are examined here alongside operational examples to surface how the interpretive landscape is actually settling.
 
 **Stakeholder Asymmetry Analysis**
 Where regulators, operators, and vendors hold different information — and how those information gaps create asymmetric risk. Documents where the power to interpret is concentrated and how that shapes enforcement exposure.
@@ -70,7 +70,7 @@ Every Penumbrant document addresses these analytical domains:
 1. **Statutory and Regulatory Ambiguities** — Vague language, undefined terms, and gaps in coverage
 2. **Enforcement Discretion** — Inconsistent application across jurisdictions or agencies
 3. **Multi-Jurisdictional Tensions** — Conflicts between overlapping regulatory authorities
-4. **Case Law and Precedents** — How courts and agencies are filling regulatory gaps
+4. **Case Law and Precedents** — How courts and agencies are filling regulatory gaps *(examined within Case Studies, Case Law, and Real-World Implications)*
 5. **Stakeholder Asymmetry** — How information and power imbalances are exacerbated by regulatory ambiguity
 
 ---
